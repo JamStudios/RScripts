@@ -1,3 +1,6 @@
+-- Loadstring: 
+-- loadstring("https://raw.githubusercontent.com/JamStudios/RScripts/main/Scripts/TowerOfHell/VG%20Hub/Loadstring.lua"),true))()
+
 -- Information:
 -- Updated since: April 24th 2022
 -- Status: Working
